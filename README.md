@@ -3,7 +3,7 @@
 <h1 align="center"> 👋 Hi, I'm Shreya Reddy Alluri 😎 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="girl coding gif">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="woman coding">
 </p>
 
 
