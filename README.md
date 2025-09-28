@@ -1,13 +1,10 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center"> 👋 Hi, I'm Shreya Reddy Alluri 😎 </h1>
+<h1 align="center"> Hello 👋 , I'm Shreya Reddy Alluri </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="female developer gif">
 </p>
-
-
-
 
 
 ---
@@ -16,7 +13,7 @@
 🎓 Graduate Student in **Computer Science** at Georgia State University (GPA: 3.93/4.0)  
 💡 Passionate about **AI, Machine Learning, Cloud Computing, and Full-Stack Development**  
 🏆 Best Paper Award @ Springer CCIS 2024 for **Sign Language Communication Research**  
-🌍 Always building projects that bridge **technology & real-world impact**  
+🌍 Always building projects that bridge **Technology & Real-world impact**  
 
 ---
 
