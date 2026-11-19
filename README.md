@@ -34,11 +34,6 @@
 - Built **cloud-native apps** with AWS, cutting infra costs by **80%** & speeding prototypes by **35%**  
 - Explored **AI-driven solutions**: vector models, semantic search, LLMs  
 
-### 🛒 Software Development Engineer – *InternPe* (Mar 2023 – Mar 2024)  
-- Built **full-stack e-commerce platform** with authentication, order management & recommendation engine  
-- Developed back-end with **Spring Boot & J2EE**, secured with Spring Security  
-- Designed **responsive Angular frontend** & automated deployments with AWS CI/CD  
-- Implemented **real-time data pipelines** using Kafka + Spark  
 
 ---
 
